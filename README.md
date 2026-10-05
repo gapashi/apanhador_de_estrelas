@@ -1,6 +1,6 @@
 # 🌟 Apanhador de Estrelas (Star Catcher)
 
-> Um jogo/projeto interativo desenvolvido para capturar estrelas e somar pontuações em tempo real.
+> Um jogo desenvolvido para capturar estrelas e somar pontuações em tempo real.
 
 ![Licença](https://img.shields.io/badge/license-Unlicense-brightgreen?style=flat-square)
 ![Status](https://img.shields.io/badge/status-completo-brightgreen?style=flat-square)
@@ -16,15 +16,16 @@ O **Apanhador de Estrelas** é um projeto interativo onde o objetivo principal �
 ## 🚀 Funcionalidades
 
 - ⭐️ **Coleta de Estrelas:** Elementos interativos gerados na tela para o jogador capturar.
-- ⏱️ **Sistema de Pontuação / Tempo:** Acompanhamento de score em tempo real.
-- 🎮 **Controles Simples:** Movimentação intuitiva via teclado ou mouse.
+- ⏱️ **Sistema de Pontuação:** Acompanhamento de score em tempo real.
+- 🎮 **Controles Simples:** Movimentação intuitiva via setas do teclado.
 - 🎨 **Interface Amigável:** Design simples e dinâmico.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem Principal:** HTML5 / CSS3 / JavaScript
+- **Linguagem Principal:** Python
+- **Biblioteca utilizada:** Pygame
 - **Ferramentas de Versionamento:** Git & GitHub
 
 ---
