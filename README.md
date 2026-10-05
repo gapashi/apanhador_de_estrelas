@@ -2,8 +2,8 @@
 
 > Um jogo/projeto interativo desenvolvido para capturar estrelas e somar pontuações em tempo real.
 
-![Licença](https://img.shields.io/github/license/gapashi/apanhador_de_estrelas?style=flat-square)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
+![Licença](https://img.shields.io/badge/license-Unlicense-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/status-completo-brightgreen?style=flat-square)
 
 ---
 
@@ -24,8 +24,23 @@ O **Apanhador de Estrelas** é um projeto interativo onde o objetivo principal �
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem Principal:** [Python]
-- **Frameworks/Bibliotecas:** *Pygame*
+- **Linguagem Principal:** HTML5 / CSS3 / JavaScript
 - **Ferramentas de Versionamento:** Git & GitHub
 
 ---
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests*.
+
+---
+
+## 📄 Licença
+
+Este projeto é de uso livre (Software Livre / Unlicense). Você pode copiar, modificar, distribuir e executar o código livremente.
+
+---
+
+<p align="center">
+  Desenvolvido por <a href="https://github.com/gapashi">gapashi</a> 🚀
+</p>
