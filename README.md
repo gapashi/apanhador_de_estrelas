@@ -9,7 +9,7 @@
 
 ## 📖 Sobre o Projeto
 
-O **Apanhador de Estrelas** é um projeto interativo onde o objetivo principal é coletar o máximo de estrelas antes que o tempo acabe ou evitando obstáculos pelo caminho. Ideal para demonstrar conceitos de desenvolvimento de jogos, manipulação de eventos e lógica de programação.
+O **Apanhador de Estrelas** é um projeto interativo onde o objetivo principal é coletar estrelas conforme a velocidade delas avança. Ideal para demonstrar conceitos de desenvolvimento de jogos, manipulação de eventos e lógica de programação.
 
 ---
 
